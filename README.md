@@ -1,4 +1,8 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ozgurcat/ozgurcat/blob/main/freecat3_darkmode.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ozgurcat/ozgurcat/blob/main/freecat3_lightmode.png">
+  <img alt="Shows an illustrated free cat. It is white in dark mode and black in light mode." src="https://github.com/ozgurcat/ozgurcat/blob/main/freecat3_wbg.png">
+</picture>
 
 <!--
 **ozgurcat/ozgurcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
